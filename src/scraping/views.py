@@ -10,3 +10,6 @@ def home(request):
 
 def page(req):
     pass
+
+def page2(req):
+    pass
