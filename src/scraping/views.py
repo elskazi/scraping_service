@@ -7,3 +7,6 @@ def home(request):
     name = 'Vasia'
     content = {'date': date, 'name': name}
     return render(request, 'home.html', content)
+
+def page(req):
+    pass
